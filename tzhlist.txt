@@ -1,3 +1,5 @@
+[AdBlock Plus 2.0]
+
 @@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
 @@*/tb/_/pop_video_*.js
