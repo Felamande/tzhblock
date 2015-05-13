@@ -100,3 +100,4 @@ www.golangtc.com##div.col-md-12
 v.gif
 suda_log*.js
 collect_m*.js
+||nuomi.com/*
