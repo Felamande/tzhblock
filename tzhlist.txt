@@ -1,7 +1,6 @@
 [AdBlock Plus 2.0]
-! Version: 20150512
+! Version: 20150615
 ! Title: TZH Block List
-! Simple
 ! Last modified: 2015/06/15
 ! Expires: 1 days (update frequency)
 ! Email: tangzhuohao@hotmail.com
