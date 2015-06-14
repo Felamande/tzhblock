@@ -66,6 +66,7 @@ tieba.baidu.com##.save-to-quick-reply-btn
 ||bdstatic.com/tb/static-tbmall
 */tb/_/umoney_*.js
 */tb/_/pb_track_*.js
+||bdstatic.com/tb/static-pcommon/widget/placeholder
 */tb/_/tdou_*.js
 */tb/_/advertise_*.js
 */tb/_/qianbao_*.js
@@ -102,9 +103,10 @@ tieba.baidu.com##*[data-daid]
 tieba.baidu.com##*[class*="achiev"]
 !------------------------------------------
 ||bdstatic.com/tb/static-user/widget/celebrity
-||cpro.baidu.com/*
+||cpro.baidu.com$script
 ||tieba.baidu.com/show*
 ||zhanqi.tv/*
+||tieba.baidu.com/live*
 /static-adsense
 ||tb1.bdstatic.com/tb/img/hg/hg.gif
 ||tb1.bdstatic.com/*duoku*.js
@@ -130,11 +132,15 @@ tieba.baidu.com##.celebrity
 ||bdstatic.com/tb/static-encourage/widget/achieve_card
 ||bdstatic.com/tb/static-props/widget/feedback
 @@*/tb/_/base_dialog_user_bar_*
+*/tb/_/nuomi_*.js
+||bdstatic.com/tb/static-common/lib/hourglass
+*/tb/_/suggestion_*.js
 */cpro/*
 ||vs-static.baidu.com$script
 */tb/_/qrcode_*.js
 ||e.baidu.com/*
 www.baidu.com##div.leftBlock+div
+||wpkg.org/*
 ||baidu.com/home/treasure
 ||sax.sina.com.cn
 v.gif
