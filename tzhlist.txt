@@ -2,16 +2,20 @@
 ! Version: 20150512
 ! Title: TZH Block List
 ! Simple
-! Last modified: 2015/05/12
+! Last modified: 2015/06/15
 ! Expires: 1 days (update frequency)
 ! Email: tangzhuohao@hotmail.com
 ! Homepage: https://github.com/Felamande/tzhblock
 
+@@*/tb/_/util_*.js
+@@*/tb/_/post_*.js
+@@*/tb/_/thread_*.js
+@@*/tb/_/user_*.js
+@@*/tb/_/dialog_*.js
 @@*/tb/_/repost_*.js
 @@*/tb/_/upload_*.js
 @@*/tb/_/pop_video_*.js
 @@*/tb/_/rich_poster_*.js
-@@*/tb/_/thread_vote_*.js
 @@*/tb/_/audio_player_*.js
 @@*/tb/_/music_player_*.js
 */tb/_/aside_float_bar_*.js
@@ -20,6 +24,7 @@
 ||xiu8.com
 ||cb.baidu.com^
 ||cbjs.baidu.com^
+tieba.baidu.com##.save-to-quick-reply-btn
 ||hm.baidu.com/*
 ||pos.baidu.com/*
 ||img.m.duoku.com^
@@ -52,6 +57,19 @@
 ||tb1.bdstatic.com/tb/r/*
 ||tb1.bdstatic.com/tb/cms/img/*
 ||tb1.bdstatic.com/tb/cms/com/*
+@@||ss0.bdstatic.com/*jquery*.js
+||bdstatic.com/*bdsug*.js
+||baidu.com/cache/aladdin/ui/honourCard
+||bdstatic.com/*mt_show*.js
+*/tb/_/game_banner_*.js
+||bdstatic.com/tb/static-pb/widget/url_check
+||bdstatic.com/tb/static-common/widget/tbshare
+||bdstatic.com/tb/static-tbmall
+*/tb/_/umoney_*.js
+*/tb/_/pb_track_*.js
+*/tb/_/tdou_*.js
+*/tb/_/advertise_*.js
+*/tb/_/qianbao_*.js
 ||tb1.bdstatic.com/tb/cms/ngmis/*
 ||tb1.bdstatic.com/tb/_/like_tip_*.js
 ||tb1.bdstatic.com/tb/cms/tbmall/*
@@ -77,38 +95,57 @@
 ||tb2.bdstatic.com/tb/static-member/img/furank_vipicons_*.png
 ||tb2.bdstatic.com/tb/static-ihome/widget/interaction_mod/img/*
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
+||tb1.bdstatic.com/tb/static-comforum/widget/u9
+||tb1.bdstatic.com/tb/static-encourage/widget/my_app
 tieba.baidu.com##*[id*="game"]
 tieba.baidu.com##*[id*="duoku"]
-tieba.baidu.com##*[data-daid*="1"]
+tieba.baidu.com##*[data-daid]
+tieba.baidu.com##*[class*="achiev"]
+!------------------------------------------
+||bdstatic.com/tb/static-user/widget/celebrity
 ||cpro.baidu.com/*
 ||tieba.baidu.com/show*
 ||zhanqi.tv/*
-||tieba.baidu.com/live*
-paypost
-firework
-
-||tb1.bdstatic.com/??/tb/_/duoku*.js
-||tb1.bdstatic.com/??/tb/_/lottery*.js
-
-||tb1.bdstatic.com/tb/_/duoku*.js
-||tb1.bdstatic.com/tb/_/lottery*.js
+/static-adsense
+||tb1.bdstatic.com/tb/img/hg/hg.gif
+||tb1.bdstatic.com/*duoku*.js
+||bdstatic.com/tb/_/placeholder_*.js
+*/tb/_/stock_*.js
 tieba.baidu.com##.tbui_aside_float_bar
 */tb/static-*frs/img/frs_bright/
+||tieba.baidu.com$subdocument
 @@/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
+@@||ss0.bdstatic.com/*nav*
+@@||ss0.bdstatic.com/*super*
+||ss1.bdstatic.com$script
+||ss0.bdstatic.com$script
 */img/history_game/$domain=tieba.baidu.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
-game_pop_window.js
-ad_stats.js
-||gopher.qiniu.com/ad*
+/static-padsense
+tieba.baidu.com##.celebrity
+||bdstatic.com/tb/static-creativeplatform/widget/datarecommend
+||bdstatic.com/tb/static-comforum/widget/game_pop_window
+||bdstatic.com/*zyq*.js
+||bdstatic.com/*stats*.js
+||bdstatic.com/*firework*.js
+@@*/tb/*/ueditor_*.js
+||bdstatic.com/tb/static-encourage/widget/achieve_card
+||bdstatic.com/tb/static-props/widget/feedback
+@@*/tb/_/base_dialog_user_bar_*
+*/cpro/*
+||vs-static.baidu.com$script
+*/tb/_/qrcode_*.js
 ||e.baidu.com/*
 www.baidu.com##div.leftBlock+div
-www.golangtc.com##div.col-md-12
-||facebook.net/*
-||wpkg.org/*
 ||baidu.com/home/treasure
-||ss0.bdstatic.com/*tam-ogel*
 ||sax.sina.com.cn
 v.gif
-suda_log*.js
-collect_m*.js
+@@||ss0.bdstatic.com/*base*
 ||nuomi.com/*
+||img.baidu.com/hunter/
+!-----------------------
+||tuanimg*.baidu.com
+||nuomi.bdimg.com
+||e.hiphotos.baidu.com/bainuo
+||e.hiphotos.baidu.com/nuomi
+|http://tb2.bdstatic.com/tb/static-encourage/widget/paypost_guide/img
