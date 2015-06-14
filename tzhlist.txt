@@ -109,7 +109,6 @@ tieba.baidu.com##*[class*="achiev"]
 ||tb1.bdstatic.com/tb/img/hg/hg.gif
 ||tb1.bdstatic.com/*duoku*.js
 ||bdstatic.com/tb/_/placeholder_*.js
-*/tb/_/stock_*.js
 tieba.baidu.com##.tbui_aside_float_bar
 */tb/static-*frs/img/frs_bright/
 ||tieba.baidu.com$subdocument
