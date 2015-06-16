@@ -135,6 +135,17 @@ tieba.baidu.com##.celebrity
 */tb/_/nuomi_*.js
 ||bdstatic.com/tb/static-common/lib/hourglass
 */tb/_/suggestion_*.js
+tieba.baidu.com##.user_name .pre_icon_wrap
+tieba.baidu.com##.user_tbmall
+tieba.baidu.com##.user_score
+||cas.baidu.com
+||cas-*.bdstatic.com
+||tuiguang.baidu.com
+||yingxiao*.baidu.com
+||bdstatic.com/tb/static-frs/widget/snowflow
+@@||bdstatic.com$stylesheet
+||bdstatic.com/tb/static-ppb/img/save_face
+||bdstatic.com/tb/_/flash_lcs_*.js
 */cpro/*
 ||vs-static.baidu.com$script
 */tb/_/qrcode_*.js
@@ -143,7 +154,6 @@ www.baidu.com##div.leftBlock+div
 ||wpkg.org/*
 ||baidu.com/home/treasure
 ||sax.sina.com.cn
-v.gif
 @@||ss0.bdstatic.com/*base*
 ||nuomi.com/*
 ||img.baidu.com/hunter/
