@@ -143,7 +143,6 @@ tieba.baidu.com##.user_score
 ||tuiguang.baidu.com
 ||yingxiao*.baidu.com
 ||bdstatic.com/tb/static-frs/widget/snowflow
-@@||bdstatic.com$stylesheet
 ||bdstatic.com/tb/static-ppb/img/save_face
 ||bdstatic.com/tb/_/flash_lcs_*.js
 */cpro/*
