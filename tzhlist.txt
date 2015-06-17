@@ -97,6 +97,7 @@ tieba.baidu.com##.save-to-quick-reply-btn
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ||tb1.bdstatic.com/tb/static-comforum/widget/u9
 ||tb1.bdstatic.com/tb/static-encourage/widget/my_app
+||baidu.com/*/v.gif
 tieba.baidu.com##*[id*="game"]
 tieba.baidu.com##*[id*="duoku"]
 tieba.baidu.com##*[data-daid]
