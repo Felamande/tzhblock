@@ -1,7 +1,7 @@
 [AdBlock Plus 2.0]
-! Version: 20150615
+! Version: 20150618
 ! Title: TZH Block List
-! Last modified: 2015/06/15
+! Last modified: 2015/06/18
 ! Expires: 1 days (update frequency)
 ! Email: tangzhuohao@hotmail.com
 ! Homepage: https://github.com/Felamande/tzhblock
@@ -56,7 +56,6 @@ tieba.baidu.com##.save-to-quick-reply-btn
 ||tb1.bdstatic.com/tb/r/*
 ||tb1.bdstatic.com/tb/cms/img/*
 ||tb1.bdstatic.com/tb/cms/com/*
-@@||ss0.bdstatic.com/*jquery*.js
 ||bdstatic.com/*bdsug*.js
 ||baidu.com/cache/aladdin/ui/honourCard
 ||bdstatic.com/*mt_show*.js
@@ -64,6 +63,7 @@ tieba.baidu.com##.save-to-quick-reply-btn
 ||bdstatic.com/tb/static-pb/widget/url_check
 ||bdstatic.com/tb/static-common/widget/tbshare
 ||bdstatic.com/tb/static-tbmall
+||wangmeng.baidu.com$script
 */tb/_/umoney_*.js
 */tb/_/pb_track_*.js
 ||bdstatic.com/tb/static-pcommon/widget/placeholder
@@ -97,9 +97,7 @@ tieba.baidu.com##.save-to-quick-reply-btn
 @@||tb2.bdstatic.com/tb/static-frs/img/frs_bright/images_bmg/f_content_bg_*.png
 ||tb1.bdstatic.com/tb/static-comforum/widget/u9
 ||tb1.bdstatic.com/tb/static-encourage/widget/my_app
-||baidu.com/*/v.gif
 tieba.baidu.com##*[id*="game"]
-tieba.baidu.com##*[id*="duoku"]
 tieba.baidu.com##*[data-daid]
 tieba.baidu.com##*[class*="achiev"]
 !------------------------------------------
@@ -116,8 +114,10 @@ tieba.baidu.com##.tbui_aside_float_bar
 */tb/static-*frs/img/frs_bright/
 ||tieba.baidu.com$subdocument
 @@/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
-@@||ss0.bdstatic.com/*nav*
-@@||ss0.bdstatic.com/*super*
+@@||ss0.bdstatic.com/*/navplus
+@@||ss0.bdstatic.com/*/static/superui
+||ss0.bdstatic.com/*/static/superplus/js/min_notice_*.js
+@@||ss0.bdstatic.com/*/static/superplus
 ||ss1.bdstatic.com$script
 ||ss0.bdstatic.com$script
 */img/history_game/$domain=tieba.baidu.com
@@ -146,6 +146,10 @@ tieba.baidu.com##.user_score
 ||bdstatic.com/tb/static-frs/widget/snowflow
 ||bdstatic.com/tb/static-ppb/img/save_face
 ||bdstatic.com/tb/_/flash_lcs_*.js
+||vip.bdimg.com
+||ss3.baidu.com/*
+||baidu.com/*/v.gif
+||hiphotos.baidu.com$domain=vip.baidu.com
 */cpro/*
 ||vs-static.baidu.com$script
 */tb/_/qrcode_*.js
@@ -154,7 +158,6 @@ www.baidu.com##div.leftBlock+div
 ||wpkg.org/*
 ||baidu.com/home/treasure
 ||sax.sina.com.cn
-@@||ss0.bdstatic.com/*base*
 ||nuomi.com/*
 ||img.baidu.com/hunter/
 !-----------------------
