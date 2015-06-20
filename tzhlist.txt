@@ -1,7 +1,7 @@
 [AdBlock Plus 2.0]
-! Version: 20150618
+! Version: 20150620
 ! Title: TZH Block List
-! Last modified: 2015/06/18
+! Last modified: 2015/06/20
 ! Expires: 1 days (update frequency)
 ! Email: tangzhuohao@hotmail.com
 ! Homepage: https://github.com/Felamande/tzhblock
@@ -155,7 +155,6 @@ tieba.baidu.com##.user_score
 */tb/_/qrcode_*.js
 ||e.baidu.com/*
 www.baidu.com##div.leftBlock+div
-||wpkg.org/*
 ||baidu.com/home/treasure
 ||sax.sina.com.cn
 ||nuomi.com/*
