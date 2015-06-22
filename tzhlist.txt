@@ -2,7 +2,7 @@
 ! Version: 20150620
 ! Title: TZH Block List
 ! Last modified: 2015/06/20
-! Expires: 1 days (update frequency)
+! Expires: 3 days
 ! Email: tangzhuohao@hotmail.com
 ! Homepage: https://github.com/Felamande/tzhblock
 
