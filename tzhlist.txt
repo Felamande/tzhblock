@@ -12,11 +12,7 @@
 @@*/tb/_/user_*.js
 @@*/tb/_/dialog_*.js
 @@*/tb/_/repost_*.js
-@@*/tb/_/upload_*.js
-@@*/tb/_/pop_video_*.js
 @@*/tb/_/rich_poster_*.js
-@@*/tb/_/audio_player_*.js
-@@*/tb/_/music_player_*.js
 */tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
