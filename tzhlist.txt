@@ -161,3 +161,4 @@ www.baidu.com##div.leftBlock+div
 ||e.hiphotos.baidu.com/bainuo
 ||e.hiphotos.baidu.com/nuomi
 |http://tb2.bdstatic.com/tb/static-encourage/widget/paypost_guide/img
+tieba.baidu.com##.play_list_panel
