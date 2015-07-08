@@ -11,8 +11,6 @@
 @@*/tb/_/thread_*.js
 @@*/tb/_/user_*.js
 @@*/tb/_/dialog_*.js
-@@*/tb/_/repost_*.js
-@@*/tb/_/rich_poster_*.js
 */tb/_/aside_float_bar_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
@@ -61,11 +59,14 @@ tieba.baidu.com##.save-to-quick-reply-btn
 ||bdstatic.com/tb/static-tbmall
 ||wangmeng.baidu.com$script
 */tb/_/umoney_*.js
+tieba.baidu.com##.play_list_panel
+||bdstatic.com/tb/static-encourage/widget/paypost
 */tb/_/pb_track_*.js
 ||bdstatic.com/tb/static-pcommon/widget/placeholder
 */tb/_/tdou_*.js
 */tb/_/advertise_*.js
 */tb/_/qianbao_*.js
+||tieba.baidu.com/tbapp/user/getRecommendApp
 ||tb1.bdstatic.com/tb/cms/ngmis/*
 ||tb1.bdstatic.com/tb/_/like_tip_*.js
 ||tb1.bdstatic.com/tb/cms/tbmall/*
@@ -112,7 +113,6 @@ tieba.baidu.com##.tbui_aside_float_bar
 @@/tb/static-*frs/img/frs_bright/images_bmg/f_content_bg_*.png
 @@||ss0.bdstatic.com/*/navplus
 @@||ss0.bdstatic.com/*/static/superui
-||ss0.bdstatic.com/*/static/superplus/js/min_notice_*.js
 @@||ss0.bdstatic.com/*/static/superplus
 ||ss1.bdstatic.com$script
 ||ss0.bdstatic.com$script
@@ -122,8 +122,12 @@ tieba.baidu.com##.tbui_aside_float_bar
 tieba.baidu.com##.celebrity
 ||bdstatic.com/tb/static-creativeplatform/widget/datarecommend
 ||bdstatic.com/tb/static-comforum/widget/game_pop_window
+||bdstatic.com/tb/static-pcommon/widget/userbar
+||bdstatic.com/tb/static-*/widget/Tdou
+||bdstatic.com/tb/static-pcommon/widget/tbskin
 ||bdstatic.com/*zyq*.js
 ||bdstatic.com/*stats*.js
+||bdstatic.com/tb/static-encourage/widget/firework
 ||bdstatic.com/*firework*.js
 @@*/tb/*/ueditor_*.js
 ||bdstatic.com/tb/static-encourage/widget/achieve_card
@@ -146,11 +150,16 @@ tieba.baidu.com##.user_score
 ||ss3.baidu.com/*
 ||baidu.com/*/v.gif
 ||hiphotos.baidu.com$domain=vip.baidu.com
+||tieba.baidu.com$object
+||bdstatic.com$object
+tieba.baidu.com##.umoney-promotion-dialog
+||bdstatic.com/tb/static-ppb/widget/frs_from_guide
 */cpro/*
 ||vs-static.baidu.com$script
 */tb/_/qrcode_*.js
 ||e.baidu.com/*
 www.baidu.com##div.leftBlock+div
+||wpkg.org/*
 ||baidu.com/home/treasure
 ||sax.sina.com.cn
 ||nuomi.com/*
@@ -161,4 +170,4 @@ www.baidu.com##div.leftBlock+div
 ||e.hiphotos.baidu.com/bainuo
 ||e.hiphotos.baidu.com/nuomi
 |http://tb2.bdstatic.com/tb/static-encourage/widget/paypost_guide/img
-tieba.baidu.com##.play_list_panel
+@@||passport.baidu.com^$document
