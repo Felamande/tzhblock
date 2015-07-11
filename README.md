@@ -1,2 +1,2 @@
 # tzhblock
-A simple ad block list applying to baidu tieba.
+A simple ad block list applying to baidu.
