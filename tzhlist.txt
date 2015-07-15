@@ -1,7 +1,7 @@
 [AdBlock Plus 2.0]
-! Version: 20150701
+! Version: 20150715
 ! Title: TZH Block List
-! Last modified: 2015/07/01
+! Last modified: 2015/07/15
 ! Expires: 3 days
 ! Email: tangzhuohao@hotmail.com
 ! Homepage: https://github.com/Felamande/tzhblock
@@ -11,7 +11,7 @@
 @@*/tb/_/thread_*.js
 @@*/tb/_/user_*.js
 @@*/tb/_/dialog_*.js
-*/tb/_/aside_float_bar_*.js
+@@*/tb/_/repost_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 ||xiu8.com
@@ -58,14 +58,13 @@ tieba.baidu.com##.save-to-quick-reply-btn
 ||bdstatic.com/tb/static-common/widget/tbshare
 ||bdstatic.com/tb/static-tbmall
 ||wangmeng.baidu.com$script
-*/tb/_/umoney_*.js
 tieba.baidu.com##.play_list_panel
 ||bdstatic.com/tb/static-encourage/widget/paypost
 */tb/_/pb_track_*.js
+*/tb/_/slide_show_*.js
+*/tb/_/zyq_*.js
 ||bdstatic.com/tb/static-pcommon/widget/placeholder
-*/tb/_/tdou_*.js
 */tb/_/advertise_*.js
-*/tb/_/qianbao_*.js
 ||tieba.baidu.com/tbapp/user/getRecommendApp
 ||tb1.bdstatic.com/tb/cms/ngmis/*
 ||tb1.bdstatic.com/tb/_/like_tip_*.js
@@ -125,10 +124,7 @@ tieba.baidu.com##.celebrity
 ||bdstatic.com/tb/static-pcommon/widget/userbar
 ||bdstatic.com/tb/static-*/widget/Tdou
 ||bdstatic.com/tb/static-pcommon/widget/tbskin
-||bdstatic.com/*zyq*.js
-||bdstatic.com/*stats*.js
 ||bdstatic.com/tb/static-encourage/widget/firework
-||bdstatic.com/*firework*.js
 @@*/tb/*/ueditor_*.js
 ||bdstatic.com/tb/static-encourage/widget/achieve_card
 ||bdstatic.com/tb/static-props/widget/feedback
@@ -154,6 +150,10 @@ tieba.baidu.com##.user_score
 ||bdstatic.com$object
 tieba.baidu.com##.umoney-promotion-dialog
 ||bdstatic.com/tb/static-ppb/widget/frs_from_guide
+||bdstatic.com/tb/static-pcommon/widget/ad_stats
+||bdstatic.com/tb/_/aside_float_bar_*.js
+*/tb/_/xiu8_aside_*.js
+*/tb/_/game_live_list_*.js
 */cpro/*
 ||vs-static.baidu.com$script
 */tb/_/qrcode_*.js
@@ -171,3 +171,4 @@ www.baidu.com##div.leftBlock+div
 ||e.hiphotos.baidu.com/nuomi
 |http://tb2.bdstatic.com/tb/static-encourage/widget/paypost_guide/img
 @@||passport.baidu.com^$document
+@@||bandwagonhost.com^$document
