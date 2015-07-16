@@ -9,9 +9,13 @@
 @@*/tb/_/util_*.js
 @@*/tb/_/post_*.js
 @@*/tb/_/thread_*.js
-@@*/tb/_/user_*.js
+@@*/tb/_/*_user_*.js
+@@*/tb/_/head_main_*.js
 @@*/tb/_/dialog_*.js
 @@*/tb/_/repost_*.js
+tieba.baidu.com##[id*="pagelet_encourage-appforum"]
+*/tb/_/my_app_*.js
+*/tb/_/attention_category_game_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 ||xiu8.com
@@ -104,7 +108,6 @@ tieba.baidu.com##*[class*="achiev"]
 ||tieba.baidu.com/live*
 /static-adsense
 ||tb1.bdstatic.com/tb/img/hg/hg.gif
-||tb1.bdstatic.com/*duoku*.js
 ||bdstatic.com/tb/_/placeholder_*.js
 tieba.baidu.com##.tbui_aside_float_bar
 */tb/static-*frs/img/frs_bright/
