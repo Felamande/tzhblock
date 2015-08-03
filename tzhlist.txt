@@ -15,7 +15,7 @@
 @@*/tb/_/repost_*.js
 tieba.baidu.com##[id*="pagelet_encourage-appforum"]
 */tb/_/my_app_*.js
-*/tb/_/attention_category_game_*.js
+!*/tb/_/attention_category_game_*.js
 */tb/_/game_frs_head_*.js
 */tb/_/tshow_out_date_warn_*.js
 ||xiu8.com
