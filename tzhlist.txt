@@ -104,7 +104,7 @@ tieba.baidu.com##*[class*="achiev"]
 ||bdstatic.com/tb/static-user/widget/celebrity
 ||cpro.baidu.com$script
 ||tieba.baidu.com/show*
-||zhanqi.tv/*
+||zhanqi.tv/*$domain=baidu.com
 ||tieba.baidu.com/live*
 /static-adsense
 ||tb1.bdstatic.com/tb/img/hg/hg.gif
